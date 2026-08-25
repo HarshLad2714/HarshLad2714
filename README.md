@@ -100,6 +100,7 @@ I'm passionate about:
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQLServer-316192?style=for-the-badge&logo=sqlserver&logoColor=white)
 
 ### **🎨 Frontend & APIs**
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -119,11 +120,17 @@ I'm passionate about:
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-273347?style=for-the-badge&logo=trello&logoColor=white)
+![Clickup](https://img.shields.io/badge/ClickUp-FCA121?style=for-the-badge&logo=clickup&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-100000?style=for-the-badge&logo=azure&logoColor=white)
 
 ### **🤖 AI Tools**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=ide&logoColor=white)
+![ClaudeAI](https://img.shields.io/badge/ClaudeAI-1A1A1A?style=for-the-badge&logo=ide&logoColor=white)
+![GrokAI](https://img.shields.io/badge/GrokAI-0052CC?style=for-the-badge&logo=grokai&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%2FAntigravity-673AB7?style=for-the-badge&logo=googleantigravity&logoColor=white)
 
 </div>
 
