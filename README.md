@@ -18,55 +18,7 @@
 
 </div>
 
-<style>
-  @keyframes gradient-shift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-
-  @keyframes glow {
-    0%, 100% { text-shadow: 0 0 5px rgba(255, 45, 32, 0.5); }
-    50% { text-shadow: 0 0 20px rgba(255, 45, 32, 0.8), 0 0 30px rgba(79, 192, 141, 0.6); }
-  }
-
-  body {
-    background: linear-gradient(-45deg, #FF2D20, #4FC08D, #1572B6, #F7DF1E);
-    background-size: 400% 400%;
-    animation: gradient-shift 15s ease infinite;
-  }
-
-  .gradient-section {
-    background: linear-gradient(135deg, rgba(255, 45, 32, 0.1), rgba(79, 192, 141, 0.1));
-    padding: 20px;
-    border-radius: 10px;
-    margin: 20px 0;
-    border-left: 4px solid #FF2D20;
-    animation: float 3s ease-in-out infinite;
-  }
-
-  .stats-box {
-    background: linear-gradient(135deg, #FF2D20 0%, #4FC08D 100%);
-    padding: 15px;
-    border-radius: 8px;
-    color: white;
-    animation: glow 2s ease-in-out infinite;
-  }
-
-  .skill-badge {
-    display: inline-block;
-    animation: float 3s ease-in-out infinite;
-  }
-</style>
-
 ## 🎯 About Me
-
-<div class="gradient-section">
 
 **Senior Laravel Developer** with **11+ years** of web development experience and **9+ years** specializing in Laravel. I lead development teams, architect scalable backend systems, and drive projects from concept to deployment.
 
@@ -78,8 +30,6 @@ I'm passionate about:
 - 📚 Continuous learning and knowledge sharing
 
 **Current Role:** *Laravel Team Lead & Project Manager at Whyphy Technologies (Aug 2025 - Present)*
-
-</div>
 
 ---
 
@@ -96,7 +46,13 @@ I'm passionate about:
 
 ## 💼 Professional Experience
 
-<div class="gradient-section">
+### 🏢 **Lead Laravel Developer**
+**OpenEyes Software Solution, Vadodara** | *July 2026 - Present*
+- Design scalable and maintainable application architecture
+- Make technology and framework decisions
+- Build RESTful APIs and microservices
+- Optimize database queries and application performance
+- Guide junior and mid-level developers
 
 ### 🏢 **Laravel Team Lead & Project Manager**
 **Whyphy Technologies, Surat** | *Aug 2025 - Present*
@@ -105,20 +61,12 @@ I'm passionate about:
 - Provided technical mentorship to junior developers
 - Handled server deployment with CI/CD and auto-deployment workflows
 
-</div>
-
-<div class="gradient-section">
-
 ### 🏢 **Laravel Team Lead**
 **Triveni Globalsoft Solution, Surat** | *Oct 2023 - Aug 2025*
 - Led project planning, execution, and delivery across multiple Laravel-based applications
 - Managed development team ensuring adherence to timelines and quality standards
 - Acted as primary client liaison for requirements, updates, and feedback
 - Oversaw third-party API integrations and system architecture decisions
-
-</div>
-
-<div class="gradient-section">
 
 ### 🏢 **Senior Software Engineer & Team Leader**
 **Codesdot Solution, Surat** | *Jun 2022 - Oct 2023*
@@ -127,7 +75,26 @@ I'm passionate about:
 - Supervised developer teams, conducted code reviews, ensured best practices
 - Executed complex third-party integrations with external services and APIs
 
-</div>
+### 🏢 **Senior Software Engineer**
+**WeEnggs Technology, Surat** | *Aug 2020 - Jun 2022*
+- Developed and maintained advanced Laravel applications with RESTful APIs
+- Participated in database schema design and optimization for performance
+- Collaborated with frontend teams to integrate backend logic seamlessly
+- Resolved performance bottlenecks and enhanced code scalability
+
+### 🏢 **Junior Software Engineer**
+**Alita Infotech, Surat** | *Jul 2018 - Aug 2020*
+- Developed web applications using PHP and CodeIgniter framework
+- Implemented CRUD operations, user authentication, and reporting features
+- Participated in regular code reviews and debugging sessions
+- Integrated third-party services and maintained clean, scalable code
+
+### 🏢 **Freelance Developer**
+**Freelancing** | *Jun 2016 - Jul 2018*
+- Developed web applications using PHP and CodeIgniter framework
+- Implemented CRUD operations, user authentication, and reporting features
+- Participated in regular code reviews and debugging sessions
+- Integrated third-party services and maintained clean, scalable code
 
 ---
 
@@ -172,51 +139,37 @@ I'm passionate about:
 
 ## 🚀 Featured Projects (50+)
 
-<div class="gradient-section">
-
 ### **Laravel Ecosystem** (23+ projects)
-The Birla White Experts Clubs • Swoopos • Coach Culture • ApkaMD • Tennis Franke • School Management System • Mansoor Traveling • Smartshifts • ILH - Quiz • Zappads • Clinicaimprove • Viabox • Ding • KHMS • KRES • LeoCoats • WasteShield • Bekon • EComPort & more...
+The Birla White Experts Clubs • Swoopos • Coach Culture • ApkaMD • Tennis Franke • School Management System • Mansoor Traveling • Smartshifts • ILH - Quiz • Zappads • Clinicaimprove • Viabox • Ding • KHMS • KRES • LeoCoats • WasteShield • Bekon • EComPort • SAMP - TYT • IIMS • MCTC & more...
 
 ### **CodeIgniter Projects** (10+ projects)
-FASIL HRMS • MARG Loan • Samaj (Community) • Whoz Nxt • Prathiya Loan • Archna Academy • Sleep Times • Gdigadiga & more...
+FASIL HRMS • MARG Loan • Samaj (Community) • Whoz Nxt • Prathiya Loan • Archna Academy • Sleep Times • Gdigadiga • AussieMobileskips • PMS & more...
 
 ### **Core PHP & Hybrid Stack**
-Polygogo • The Maintenance Team (TMT) • Contractor Foreman • Open EMR • Jobstar Australia & more...
+Polygogo (Admin) • The Maintenance Team (TMT) • Contractor Foreman • Open EMR • Jobstar Australia • Ron Maenchhe & more...
 
 ### **Modern Frontend Integration**
-Tastyhasty (Laravel + Vue.js) • Food Foundry (Laravel + Vue.js) • Radianmeet (Symfony + React.js) & more...
-
-</div>
+Tastyhasty (Laravel + Vue.js) • Food Foundry (Laravel + Vue.js) • AMS (Vue.js) • Radianmeet (Symfony + React.js) & more...
 
 ---
 
 ## 🎓 Education & Certifications
 
-<div class="gradient-section">
-
 📚 **Integrated MSc IT** | Uka Tarsadiya University, Bardoli, Surat  
 *June 2014 - May 2019*
-
-</div>
 
 ---
 
 ## 📰 Research & Publications
 
-<div class="gradient-section">
-
 📄 **"Multi Model Biometrics Data Retrieval Through: Big-Data"**  
 Published in International Journal of Trend in Scientific Research and Development (IJTSRD)
 
-[📥 Download Paper](https://www.ijtsrd.com/papers/ijtsrd15933.pdf)
-
-</div>
+[📥 Download Paper](https://www.ijtsrd.com/papers/ijtsrd15933.pdf) | [📖 View Paper](https://www.ijtsrd.com/papers/ijtsrd15933.pdf)
 
 ---
 
 ## 🌍 Community Involvement
-
-<div class="gradient-section">
 
 ### **Laracon Volunteer**
 Active volunteer in Laracon events with on-ground support, coordination, and community engagement.
@@ -228,19 +181,13 @@ Active volunteer in Laracon events with on-ground support, coordination, and com
 ### **Laravel Surat Community**
 Serving as a volunteer in Laravel Surat community contributing to local developer networking and knowledge sharing.
 
-</div>
-
 ---
 
 ## 🎮 Beyond Code
 
-<div class="gradient-section">
-
 - 🏏 **Cricket** | 🏓 **Table Tennis** | 🏐 **Volleyball**
 - 📍 **Based in:** Surat, India
 - 🗣️ **Languages:** Hindi, English, Gujarati
-
-</div>
 
 ---
 
@@ -248,16 +195,12 @@ Serving as a volunteer in Laravel Surat community contributing to local develope
 
 <div align="center">
 
-<div class="stats-box" style="display: inline-block; margin: 20px 0;">
-
 **Available for:** Team Lead • Laravel Architect • Project Management • Consulting
 
-[**Check My Portfolio**](https://harshlad2714.github.io/harsh-portfolio-resume/)
+[**🌐 Check My Portfolio**](https://harshlad2714.github.io/harsh-portfolio-resume/)
 
 📞 **Phone:** +91 (972) 607-1397  
 📧 **Email:** hardieslad@gmail.com
-
-</div>
 
 </div>
 
@@ -269,12 +212,8 @@ Serving as a volunteer in Laravel Surat community contributing to local develope
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshLad2714.HarshLad2714)
 
-</div>
-
----
-
-<div align="center">
-
 **Made with ❤️ by Harsh Lad**
+
+*Senior Laravel Developer • Team Lead • Project Manager*
 
 </div>
