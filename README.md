@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Harsh Lad Profile](https://raw.githubusercontent.com/HarshLad2714/HarshLad2714/main/banner.jpg)
-
 ### **Laravel Team Lead & Senior Developer** | **Project Manager** | **Speaker**
 
 > Building scalable backend systems, leading high-performing teams, and shipping products that matter.
