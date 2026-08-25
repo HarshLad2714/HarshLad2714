@@ -130,7 +130,7 @@ I'm passionate about:
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=ide&logoColor=white)
 ![ClaudeAI](https://img.shields.io/badge/ClaudeAI-1A1A1A?style=for-the-badge&logo=ide&logoColor=white)
 ![GrokAI](https://img.shields.io/badge/GrokAI-0052CC?style=for-the-badge&logo=grokai&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google%2FAntigravity-673AB7?style=for-the-badge&logo=googleantigravity&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-673AB7?style=for-the-badge&logo=googleantigravity&logoColor=white)
 
 </div>
 
