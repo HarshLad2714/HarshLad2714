@@ -98,18 +98,6 @@ I'm passionate about:
 
 <div class="gradient-section">
 
-### 🏢 **Lead Laravel Developer**
-**OpenEyes Software Solution, Vadodara** | *July 2026 - Present*
-- Design scalable and maintainable application architecture
-- Make technology and framework decisions
-- Build RESTful APIs and microservices
-- Optimize database queries and application performance
-- Guide junior and mid-level developers
-
-</div>
-
-<div class="gradient-section">
-
 ### 🏢 **Laravel Team Lead & Project Manager**
 **Whyphy Technologies, Surat** | *Aug 2025 - Present*
 - Led project planning, execution, and delivery across multiple Laravel applications
