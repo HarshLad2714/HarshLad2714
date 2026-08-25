@@ -46,14 +46,6 @@ I'm passionate about:
 
 ## 💼 Professional Experience
 
-### 🏢 **Lead Laravel Developer**
-**OpenEyes Software Solution, Vadodara** | *July 2026 - Present*
-- Design scalable and maintainable application architecture
-- Make technology and framework decisions
-- Build RESTful APIs and microservices
-- Optimize database queries and application performance
-- Guide junior and mid-level developers
-
 ### 🏢 **Laravel Team Lead & Project Manager**
 **Whyphy Technologies, Surat** | *Aug 2025 - Present*
 - Led project planning, execution, and delivery across multiple Laravel applications
