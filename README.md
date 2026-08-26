@@ -70,11 +70,4 @@ I'm passionate about:
 ![GrokAI](https://img.shields.io/badge/GrokAI-0052CC?style=for-the-badge&logo=grokai&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-673AB7?style=for-the-badge&logo=googleantigravity&logoColor=white)
 </div>
-
-## 📰 Research & Publications
-
-📄 **"Multi Model Biometrics Data Retrieval Through: Big-Data"**  
-Published in International Journal of Trend in Scientific Research and Development (IJTSRD)
-
-[📥 Download Paper](https://www.ijtsrd.com/papers/ijtsrd15933.pdf) | [📖 View Paper](https://www.ijtsrd.com/papers/ijtsrd15933.pdf)
 ---
