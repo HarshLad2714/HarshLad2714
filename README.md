@@ -6,8 +6,6 @@
 
 > Building scalable backend systems, leading high-performing teams, and shipping products that matter.
 
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HarshLad2714)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardieslad@gmail.com)
 [**🌐 Check My Portfolio**](https://harshlad2714.github.io/harsh-portfolio-resume/)
 
 ---
@@ -70,4 +68,3 @@ I'm passionate about:
 ![GrokAI](https://img.shields.io/badge/GrokAI-0052CC?style=for-the-badge&logo=grokai&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-673AB7?style=for-the-badge&logo=googleantigravity&logoColor=white)
 </div>
----
