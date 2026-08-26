@@ -6,10 +6,9 @@
 
 > Building scalable backend systems, leading high-performing teams, and shipping products that matter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-lad-aa36a316b/)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HarshLad2714)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msd07_harshlad_20)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardieslad@gmail.com)
+[**🌐 Check My Portfolio**](https://harshlad2714.github.io/harsh-portfolio-resume/)
 
 ---
 
@@ -36,13 +35,12 @@ I'm passionate about:
 |:---:|:---:|:---:|:---:|
 
 </div>
----
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### **🔧 Backend Development**
+### **🔧 Tech Stack**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -72,7 +70,6 @@ I'm passionate about:
 ![GrokAI](https://img.shields.io/badge/GrokAI-0052CC?style=for-the-badge&logo=grokai&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-673AB7?style=for-the-badge&logo=googleantigravity&logoColor=white)
 </div>
----
 
 ## 📰 Research & Publications
 
@@ -80,13 +77,4 @@ I'm passionate about:
 Published in International Journal of Trend in Scientific Research and Development (IJTSRD)
 
 [📥 Download Paper](https://www.ijtsrd.com/papers/ijtsrd15933.pdf) | [📖 View Paper](https://www.ijtsrd.com/papers/ijtsrd15933.pdf)
-
-## 📬 Get In Touch
-
-<div align="center">
-
-[**🌐 Check My Portfolio**](https://harshlad2714.github.io/harsh-portfolio-resume/)
-
-</div>
-
 ---
