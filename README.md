@@ -6,7 +6,7 @@
 
 > Building scalable backend systems, leading high-performing teams, and shipping products that matter.
 
-[**🌐 Check My Portfolio**](https://harshlad2714.github.io/harsh-portfolio-resume/)
+[**🌐 Check My Portfolio**](https://harsh-lad.netlify.app/)
 
 | ![Experience](https://img.shields.io/badge/11%2B%20Years-FF2D20?style=for-the-badge) | ![Projects](https://img.shields.io/badge/50%2B%20Projects-4FC08D?style=for-the-badge) | ![Laravel](https://img.shields.io/badge/9%2B%20Years%20Laravel-1572B6?style=for-the-badge) | ![Lead](https://img.shields.io/badge/Team%20Lead%20Since%202022-F7DF1E?style=for-the-badge&logoColor=black) |
 |:---:|:---:|:---:|:---:|
